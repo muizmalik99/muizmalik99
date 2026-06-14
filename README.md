@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/Picn.jpg.jpeg" width="160" />
-</p>
 
 # 💫 About Me:
 🔭 I’m currently working on: Building scalable full-stack web applications with React.js, Next.js, TypeScript, and Node.js.<br>👯 I’m looking to collaborate on: Open-source React/Next.js projects, MERN stack applications, and modern web development solutions.<br>🤝 I’m looking for help with: Advanced backend development, system design, cloud deployment, Docker, and CI/CD pipelines.<br>🌱 I’m currently learning: Backend development with Node.js and Express.js, System Design, scalable architectures, and AI-assisted development workflows.<br>💬 Ask me about: React.js, Next.js, TypeScript, Tailwind CSS, MERN stack development, OOP, DSA, and Databases.<br>⚡ Fun fact: I teach Computer Engineering labs while building production web applications professionally.<br>
