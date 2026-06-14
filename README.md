@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME.png" width="160"
-  style="border-radius:50%; border:5px solid #2c5364; box-shadow:0 0 20px #2c5364;" />
+  <img src="./assets/Picn.jpg.jpeg" width="160" />
 </p>
 
 # 💫 About Me:
